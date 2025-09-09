@@ -1,6 +1,6 @@
 module github.com/ayushlohmod/go-backend-api
 
-go 1.25.1
+go 1.21
 
 require (
 	github.com/gorilla/handlers v1.5.2
